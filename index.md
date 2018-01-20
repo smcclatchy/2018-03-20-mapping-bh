@@ -8,7 +8,7 @@ language: "en"
 latlng: "44.365994,-68.196389"
 humandate: "Mar 20-21, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-03-20    
+startdate: 2018-03-20
 enddate: 2018-03-21
 instructor: ["Sue McClatchy", "Dan Gatti"]
 helper: ["TBD"]
@@ -41,7 +41,7 @@ eventbrite: 42370776132          # optional: alphanumeric key for Eventbrite reg
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
-  height="248px"
+  height="268px"
   scrolling="auto">
 </iframe>
 {% endif %}
@@ -181,7 +181,6 @@ eventbrite: 42370776132          # optional: alphanumeric key for Eventbrite reg
 
 <hr/>
 
-{% comment %}
   SCHEDULE
 
 <h2 id="schedule">Schedule</h2>
@@ -308,53 +307,51 @@ eventbrite: 42370776132          # optional: alphanumeric key for Eventbrite reg
 </p>
 
 <div id="r"> <!-- Start of 'R' section. -->
-<h3>R</h3>
-
-<p>
-<a href="http://www.r-project.org">R</a> is a programming language
-that is especially powerful for data exploration, visualization, and
-statistical analysis. To interact with R, we use
-<a href="http://www.rstudio.com/">RStudio</a>.
-</p>
-
-<div class="row">
-<div class="col-md-4">
-<h4 id="r-windows">Windows</h4>
-<a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
-<p>
-Install R by downloading and running
-<a href="http://cran.r-project.org/bin/windows/base/release.htm">this .exe file</a>
-from <a href="http://cran.r-project.org/index.html">CRAN</a>.
-Also, please install the
-<a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
-Note that if you have separate user and admin accounts, you should run the
-installers as administrator (right-click on .exe file and select "Run as
-administrator" instead of double-clicking). Otherwise problems may occur later,
-for example when installing R packages.
-</p>
-</div>
-<div class="col-md-4">
-<h4 id="r-macosx">Mac OS X</h4>
-<a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">Video Tutorial</a>
-<p>
-Install R by downloading and running
-<a href="http://cran.r-project.org/bin/macosx/R-latest.pkg">this .pkg file</a>
-from <a href="http://cran.r-project.org/index.html">CRAN</a>.
-Also, please install the
-<a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
-</p>
-</div>
-<div class="col-md-4">
-<h4 id="r-linux">Linux</h4>
-<p>
-You can download the binary files for your distribution
-from <a href="http://cran.r-project.org/index.html">CRAN</a>. Or
-you can use your package manager (e.g. for Debian/Ubuntu
-run <code>sudo apt-get install r-base</code> and for Fedora run
-<code>sudo dnf install R</code>).  Also, please install the
-<a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
-</p>
-</div>
-</div>
+    <h3>R</h3>
+        <p>
+            <a href="http://www.r-project.org">R</a> is a programming language
+            that is especially powerful for data exploration, visualization, and
+            statistical analysis. To interact with R, we use
+            <a href="http://www.rstudio.com/">RStudio</a>.
+        </p>
+        <div class="row">
+            <div class="col-md-4">
+                <h4 id="r-windows">Windows</h4>
+                    <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
+                    <p>
+                    Install R by downloading and running
+                    <a href="http://cran.r-project.org/bin/windows/base/release.htm">this .exe file</a>
+                    from <a href="http://cran.r-project.org/index.html">CRAN</a>.
+                    Also, please install the
+                    <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
+                    Note that if you have separate user and admin accounts, you should run the
+                    installers as administrator (right-click on .exe file and select "Run as
+                    administrator" instead of double-clicking). Otherwise problems may occur later,
+                    for example when installing R packages.
+                    </p>
+            </div>
+            <div class="col-md-4">
+                <h4 id="r-macosx">Mac OS X</h4>
+                    <a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">Video Tutorial</a>
+                    <p>
+                    Install R by downloading and running
+                    <a href="http://cran.r-project.org/bin/macosx/R-latest.pkg">this .pkg file</a>
+                    from <a href="http://cran.r-project.org/index.html">CRAN</a>.
+                    Also, please install the
+                    <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
+                    </p>
+            </div>
+            <div class="col-md-4">
+                <h4 id="r-linux">Linux</h4>
+                <p>
+                You can download the binary files for your distribution
+                from <a href="http://cran.r-project.org/index.html">CRAN</a>. Or
+                you can use your package manager (e.g. for Debian/Ubuntu
+                run <code>sudo apt-get install r-base</code> and for Fedora run
+                <code>sudo dnf install R</code>).  Also, please install the
+                <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
+                </p>
+            </div>
+        </div>
 </div> <!-- End of 'R' section. -->
 
