@@ -8,8 +8,8 @@ language: "en"
 latlng: "44.365994,-68.196389"
 humandate: "Mar 20-21, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-03-20     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-03-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2018-03-20    
+enddate: 2018-03-21
 instructor: ["Sue McClatchy", "Dan Gatti"]
 helper: ["TBD"]
 email: ["susan.mcclatchy@jax.org"]
@@ -45,11 +45,6 @@ eventbrite: 42370776132          # optional: alphanumeric key for Eventbrite reg
   scrolling="auto">
 </iframe>
 {% endif %}
-
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
 
 <h2 id="general">General Information</h2>
 
@@ -98,7 +93,7 @@ and our administrator may contact you if we need any extra information.</h4>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
   JAX employees can locate the bioinformatics training room in building 1, unit 5 on
-  this <"https://myjax-p.jax.org/Facilities/engineering/GeneralMap/rl_locator_map.pdf">campus map</a>.
+  this <a href="https://myjax-p.jax.org/Facilities/engineering/GeneralMap/rl_locator_map.pdf">campus map</a>.
 </p>
 {% endif %}
 
@@ -219,9 +214,9 @@ and our administrator may contact you if we need any extra information.</h4>
                     <tr> <td>09:00</td>  <td><a href="{{site.swc_pages}}/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
                     <tr> <td>11:45</td>  <td>Wrap-up</td> </tr>
                     <tr> <td>12:00</td>  <td>End</td> </tr>
-        </table>
-    </div>
-</div>
+                </table>
+            </div>
+        </div>
 
 
 {% if page.carpentry == "swc" %}
