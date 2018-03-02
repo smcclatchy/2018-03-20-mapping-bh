@@ -189,28 +189,28 @@ eventbrite: 42370776132          # optional: alphanumeric key for Eventbrite reg
     <div class="col-md-6">
         <h3>Tuesday, March 20</h3>
             <table class="table table-striped">
-                <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/01-introduction/">Introduction</a></td> </tr>
-                <tr> <td>09:15</td>  <td><a href="https://smcclatchy.github.io/02-input-file-format/">Input File Format</a></td> </tr>
-                <tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/03-calc-genoprob/">Calculating Genotype Probabilities</a></td> </tr>
-                <tr> <td>10:00</td>  <td><a href="https://smcclatchy.github.io/04-calc-kinship/">Calculating A Kinship Matrix</a></td> </tr>
+                <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/01-introduction/">Introduction</a></td> </tr>
+                <tr> <td>09:15</td>  <td><a href="https://smcclatchy.github.io/mapping/02-input-file-format/">Input File Format</a></td> </tr>
+                <tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/03-calc-genoprob/">Calculating Genotype Probabilities</a></td> </tr>
+                <tr> <td>10:00</td>  <td><a href="https://smcclatchy.github.io/mapping/04-calc-kinship/">Calculating A Kinship Matrix</a></td> </tr>
                 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-                <tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/05-special-x-covar/">Special covariates for the X chromosome</a></td> </tr>
-                <tr> <td>11:15</td>  <td><a href="https://smcclatchy.github.io/06-perform-genome-scan/">Performing a genome scan</a></td> </tr>
+                <tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/05-special-x-covar/">Special covariates for the X chromosome</a></td> </tr>
+                <tr> <td>11:15</td>  <td><a href="https://smcclatchy.github.io/mapping/06-perform-genome-scan/">Performing a genome scan</a></td> </tr>
                 <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-                <tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/07-find-lod-peaks/">Finding LOD peaks</a></td> </tr>
-                <tr> <td>13:30</td>  <td><a href="https://smcclatchy.github.io/08-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model</a></td> </tr>
-                <tr> <td>14:00</td>  <td><a href="https://smcclatchy.github.io/09-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
+                <tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/mapping/07-find-lod-peaks/">Finding LOD peaks</a></td> </tr>
+                <tr> <td>13:30</td>  <td><a href="https://smcclatchy.github.io/mapping/08-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model</a></td> </tr>
+                <tr> <td>14:00</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
                <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-               <tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/10-perform-perm-test/">Performing a permutation test</a></td> </tr>
-               <tr> <td>15:30</td>  <td><a href="https://smcclatchy.github.io/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
-               <tr> <td>16:00</td>  <td><a href="https://smcclatchy.github.io/12-snp-assoc/">SNP association</a></td> </tr>
+               <tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/mapping/10-perform-perm-test/">Performing a permutation test</a></td> </tr>
+               <tr> <td>15:30</td>  <td><a href="https://smcclatchy.github.io/mapping/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
+               <tr> <td>16:00</td>  <td><a href="https://smcclatchy.github.io/mapping/12-snp-assoc/">SNP association</a></td> </tr>
                 <tr> <td>16:45</td>  <td>Wrap-up</td> </tr>
             </table>
         </div>
         <div class="col-md-6">
             <h3>Wednesday, March 21</h3>
                 <table class="table table-striped">
-                    <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
+                    <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
                     <tr> <td>11:45</td>  <td>Wrap-up</td> </tr>
                     <tr> <td>12:00</td>  <td>End</td> </tr>
                 </table>
