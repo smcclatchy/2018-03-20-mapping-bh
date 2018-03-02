@@ -11,7 +11,7 @@ humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2018-03-20
 enddate: 2018-03-21
 instructor: ["Sue McClatchy", "Dan Gatti"]
-helper: ["TBD"]
+helper: ["Gregg TeHennepe"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 42370776132          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
