@@ -211,6 +211,8 @@ eventbrite: 42370776132          # optional: alphanumeric key for Eventbrite reg
             <h3>Wednesday, March 21</h3>
                 <table class="table table-striped">
                     <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
+                    <tr> <td>10:45</td>  <td>Coffee</td> </tr>
+                    <tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice </a> (continued)</td> </tr>
                     <tr> <td>11:45</td>  <td>Wrap-up</td> </tr>
                     <tr> <td>12:00</td>  <td>End</td> </tr>
                 </table>
