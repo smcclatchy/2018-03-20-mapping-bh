@@ -7,7 +7,7 @@ country: "us"
 language: "en"
 latlng: "44.365994,-68.196389"
 humandate: "Mar 20-21, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 am - 5:00 pm on Mar 20, 9:00 am - 12:00 pm on Mar 21"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-03-20
 enddate: 2018-03-21
 instructor: ["Sue McClatchy", "Dan Gatti"]
